@@ -1,3 +1,6 @@
 [submodule "AnyKernel"]
 	path = AnyKernel
 	url = https://github.com/AbzRaider/AnyKernel33
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/sukisu-ultra/sukisu-ultra
