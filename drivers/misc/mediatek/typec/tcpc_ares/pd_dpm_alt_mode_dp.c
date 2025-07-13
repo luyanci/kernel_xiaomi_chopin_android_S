@@ -341,6 +341,7 @@ static inline int eval_dp_match_score(uint32_t local_mode,
 	return score;
 }
 
+#pragma clang diagnostic ignored "-Wunused-but-set-variable"
 static inline uint8_t dp_dfp_u_select_mode(struct pd_port *pd_port,
 	struct dp_data *dp_data, struct svdm_svid_data *svid_data)
 {
